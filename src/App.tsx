@@ -3,7 +3,6 @@ import { Column } from "./Column";
 import { AddNewItem } from "./AddNewItem";
 
 var children: string[] = ["Test1", "Test2"];
-
 function Added(text: string){
   console.log(text);
 }
